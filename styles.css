@@ -26,13 +26,25 @@ body{
 	padding:20px;
 }
 
-.latest-news-section, .pictorial-news-section, .main-article {
+.latest-news-section {
             background-color: white;
             padding: 20px;
             border-radius: 10px;
             width: 300px;
         }
-
+.pictorial-news-section{
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+			text-align: center;
+        }
+.main-article {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+        }
 .latest-news-section{
 	text-align:left;
 }
