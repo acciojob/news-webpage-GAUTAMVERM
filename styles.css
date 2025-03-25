@@ -12,12 +12,11 @@ body{
 	background-color:#011e29;
 	padding:40px;
 	margin:20px;
+	text-align:center;
+	color:white;
 }
 
-.header h2{
-	color:white;
-	text-align:center;
-}
+
 
 .container{
 	display:flex;
